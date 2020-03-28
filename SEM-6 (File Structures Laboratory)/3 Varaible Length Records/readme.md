@@ -4,8 +4,7 @@ Implement
 * unpack ( )
 * modify ( ) and
 * search ( ) methods.
-***
+
 ## Run Online @repl.it
 
 > 🔥 [Compile Python Code Online](https://repl.it/@dntandan/variablelengthrecords) 🔥
-***
