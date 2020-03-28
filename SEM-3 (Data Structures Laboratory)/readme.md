@@ -1,6 +1,5 @@
 # DATA STRUCTURES LABORATORY (17CSL38)
 
-***
 #### 1. Design, Develop and Implement a menu driven Program in C for the following Array Operations
 1. Creating an Array of N Integer Elements
 2. Display of Array Elements with Suitable Headings
