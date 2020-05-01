@@ -6,7 +6,7 @@ standard input and using an output file specified by the user instead of the sta
 output.
 ***
 ### 2. Write a program to read and write student objects with fixed-length records and the fields delimited by “|”.
-Implement
+##### Implement
 * pack ( )
 * unpack ( )
 * modify ( ) and
@@ -14,7 +14,7 @@ Implement
 methods.
 ***
 ### 3. Write a program to read and write student objects with Variable - Length records using any suitable record structure.
-Implement
+##### Implement
 * pack ( )
 * unpack ( )
 * modify ( ) and
@@ -22,13 +22,17 @@ Implement
 ***
 ### 4. Write a program to write student objects with Variable - Length records using any suitable record structure and to read from this file a student record using RRN.
 ***
-### Write a program to implement simple index on primary key for a file of student objects.
+### 5. Write a program to implement simple index on primary key for a file of student objects.
 ##### Implement :
 * add ( )
 * search ( )
 * delete ( ) using the index.
 ***
-### 6. Write a program to implement index on secondary key, the name, for a file of student objects. Implement add ( ), search ( ), delete ( ) using the secondary index.
+###  6. Write a program to implement index on secondary key, the name, for a file of student objects.
+##### Implement :
+* add ( )
+* search ( )
+* delete ( ) using the secondary index.
 ***
 ### 7. Write a program to read two lists of names and then match the names in the two lists using Consequential Match based on a single loop. Output the names common to both the lists.
 ***
