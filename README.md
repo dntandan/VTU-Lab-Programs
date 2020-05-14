@@ -4,4 +4,4 @@
 
 5th Semester --> DBMS Laboratory [17CSL58] - **SQL Codes**
 
-6th Semester --> File Structure Laboratory [17IS62] - **Python Codes**
+6th Semester --> File Structure Laboratory [17ISL67] - **Python Codes**
